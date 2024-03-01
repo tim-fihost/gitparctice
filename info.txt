@@ -1,1 +1,3 @@
-This will be page for me to hone my gitops skills
+This will be page for me to hone my gitops skills. 
+
+More updates will be soon!
