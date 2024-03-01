@@ -1,0 +1,2 @@
+This new file gives information about http and https 
+http for none secure protocol, while https for secure!
